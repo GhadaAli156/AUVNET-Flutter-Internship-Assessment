@@ -1,6 +1,18 @@
 # flutter_internship
 
-A new Flutter project.
+This is a Flutter-based e-commerce application built as part of the AUVNET Flutter Internship Assessment.
+
+📸 Screenshots
+
+
+## ✨ Features
+
+- ✅ Splash & Onboarding Screens
+- ✅ Firebase Authentication (Sign Up / Login)
+- ✅ Home Page UI (based on provided design)
+- ✅ State Management using Bloc
+- ✅ Clean Architecture (Data - Domain - Presentation)
+- ✅ Hive for local user session storage
 
 ## Getting Started
 
