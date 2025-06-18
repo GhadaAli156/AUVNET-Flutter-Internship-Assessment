@@ -3,8 +3,7 @@
 This is a Flutter-based e-commerce application built as part of the AUVNET Flutter Internship Assessment.
 
 📸 Screenshots
-
-
+![Image](https://github.com/user-attachments/assets/bf7e4555-5576-4573-945a-84c6c278f652)
 ## ✨ Features
 
 - ✅ Splash & Onboarding Screens
