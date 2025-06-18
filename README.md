@@ -1,6 +1,12 @@
 # flutter_internship
 This is a Flutter-based e-commerce application built as part of the AUVNET Flutter Internship Assessment.
 
+## 📸 Screenshots
+
+| Onboarding | Login | Home |
+|------------|-------|------|
+| ![Image](https://github.com/user-attachments/assets/bf7e4555-5576-4573-945a-84c6c278f652)| ![Image](https://github.com/user-attachments/assets/55751423-d02a-499e-b425-7296c0a3d1f8) | ![Image](https://github.com/user-attachments/assets/65ccd3ab-5b9e-4d65-903d-95bd63af2c6e)(assets/screenshots/home.png) |
+
 **📸 Screenshots**
 ![Image](https://github.com/user-attachments/assets/bf7e4555-5576-4573-945a-84c6c278f652)
 ![Image](https://github.com/user-attachments/assets/55751423-d02a-499e-b425-7296c0a3d1f8)
