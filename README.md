@@ -25,6 +25,8 @@ This is a Flutter-based e-commerce application built as part of the AUVNET Flutt
 - ✅ Hive for local user session storage
 
 ### 🗂️ Directory Structure:
+<pre> ``` lib/ ├── core/ │ ├── colors/ │ ├── utilities/ ├── features/ │ ├── auth/ │ │ ├── data/ │ │ │ ├── repositories/ │ │ │ ├── local/ │ │ ├── domain/ │ │ │ ├── entities/ │ │ │ ├── usecases/ │ │ ├── presentation/ │ │ │ ├── bloc/ │ │ │ ├── views/ │ │ │ ├── widgets/ │ ├── home/ │ │ ├── data/ │ │ ├── domain/ │ │ ├── presentation/ │ ├── splash&onboarding/ │ │ ├── presentation/ ├── main.dart ``` </pre> 
+
 lib/
 ├── core/
 │ ├── colors/
