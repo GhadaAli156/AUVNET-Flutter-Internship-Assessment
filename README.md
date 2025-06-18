@@ -15,10 +15,6 @@ This is a Flutter-based e-commerce application built as part of the AUVNET Flutt
 |------------|-------|
 |![Image](https://github.com/user-attachments/assets/323580d3-4ce9-4aa5-b892-30573c87d4e8)| ![Image](https://github.com/user-attachments/assets/38241d70-4179-4add-ae8a-47fc6804d1a8)
 
-**📸 Screenshots**
-![Image](https://github.com/user-attachments/assets/323580d3-4ce9-4aa5-b892-30573c87d4e8)
-![Image](https://github.com/user-attachments/assets/38241d70-4179-4add-ae8a-47fc6804d1a8)
-
 ## ✨ Features
 
 - ✅ Splash & Onboarding Screens
@@ -27,6 +23,31 @@ This is a Flutter-based e-commerce application built as part of the AUVNET Flutt
 - ✅ State Management using Bloc
 - ✅ Clean Architecture (Data - Domain - Presentation)
 - ✅ Hive for local user session storage
+
+### 🗂️ Directory Structure:
+lib/
+├── core/
+│ ├── colors/
+│ ├── utilities/
+├── features/
+│ ├── auth/
+│ │ ├── data/
+│ │ │ ├── repositories/
+│ │ │ ├── local/
+│ │ ├── domain/
+│ │ │ ├── entities/
+│ │ │ ├── usecases/
+│ │ ├── presentation/
+│ │ │ ├── bloc/
+│ │ │ ├── views/
+│ │ │ ├── widgets/
+│ ├── home/
+│ │ ├── data/
+│ │ ├── domain/
+│ │ ├── presentation/
+│ ├── splash&onboarding/
+│ │ ├── presentation/
+├── main.dart
 
 ## Getting Started
 
